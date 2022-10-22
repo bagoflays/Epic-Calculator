@@ -9,3 +9,8 @@ Instructions to install Epic Calculator:
 2. After you have downloaded Python 3 or higher, watch videos on how to setup Python 3.
 3. After setting up Python 3 or higher, Download the file and click on "calculator.pyw".
 4. Watch it run. If it didn't run, Check your settings or make sure you've done the instructions right.
+
+More information:
+I wrote the calculator in Notepad++. Check Notepad++ out! https://notepad-plus-plus.org/downloads/
+
+I made this because my brain thought to make software with Python. The one i made is a calculator.
